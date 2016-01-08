@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="buttom_color">#47a8df</color>
+    <color name="buttom_color_bg">#ffffff</color>
+
+
+    <color name="yellow">#F89451</color>
+
+
+    <!-- 公共的 -->
+    <color name="tab_main_text_1">#ffffff</color>
+    <color name="tab_main_text_2">#e97b24</color>
+    <color name="tab_top_text_1">#aaa</color>
+    <color name="tab_top_text_2">#000</color>
+    <color name="tab_top2_text_1">#000</color>
+    <color name="tab_top2_text_2">#fff</color>
+    <color name="white">#fff</color>
+    <color name="back">#000</color>
+    <color name="setting_item_color">#f3f4f5</color>
+
+    <color name="gray">#FFEBEBEB</color>
+    <color name="gray_t">#ececec</color>
+    <color name="red">#CD2E15</color>
+    <color name="gray_2">#9B9A9A</color>
+    <color name="gree">#0CFA34</color>
+
+    <!-- zing 全部颜色样式 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_frame">#ff000000</color>
+    <color name="viewfinder_laser">#ffff0000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <color name="item_on_bg">#f4f4f4</color>
+    <color name="item_of_bg">#d2d1d1</color>
+
+
+    <color name="code_press">#ca5803</color>
+    <color name="code_state">#f19149</color>
+
+
+    <color name="code_state_color">#f19149</color>
+    <color name="code_press_color">#F9F5EB</color>
+
+
+    <!-- 对话框按钮颜色 -->
+    <color name="black">#000000</color>
+    <!--黑色 -->
+    <color name="btntextcolor">#ff1E90FF</color>
+    <!--dialog中按钮字体颜色 -->
+</resources>

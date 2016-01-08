@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name" translatable="false">摄像头</string>
+
+    <string name="ipc_ishave">设备已存在</string>
+    <string name="ipc_addsucess">设备添加成功</string>
+    <string name="ipc_search_no">未搜索到设备</string>
+
+
+    <string name="buttom_devicelist">摄像机</string>
+    <string name="buttom_alarm">报警事件</string>
+    <string name="buttom_audio">录像管理</string>
+    <string name="buttom_setting">软件设置</string>
+
+    <string name="ipc_list">设备列表</string>
+
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+
+    <string name="doors" translatable="false">门窗</string>
+    <string name="movealarm" translatable="false">发生移动侦测报警!</string>
+    <string name="read" translatable="false">查看</string>
+    <string name="cancel" translatable="false">忽略</string>
+    <string name="loading" translatable="false">加载</string>
+    <string name="list">列表</string>
+    <string name="devicelist">我的摄像机</string>
+    <string name="finsh">完成</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="ipc_error_msg">点击+添加摄像机</string>
+    <string name="sett_lan_text">请先确定摄像机和手机WIFI是否处于同一局域网下,否则无法搜索到设备.</string>
+    <string name="sett_lan_btn_text">下一步</string>
+    <string name="sett_sound_text">将手机靠近摄像机,进行声波配置红外枪机通电40s后再进行下一步.</string>
+    <string name="play_bottm_text">按住说话</string>
+    <string name="ipc_add_lan_search">内网搜索</string>
+    <string name="ipc_add_code_setting">扫码配置</string>
+    <string name="ipc_add_listen_setting">声波配置</string>
+    <string name="ipc_add_wifi_setting">热点配置</string>
+    <string name="ipc_add_device_name">名 称:</string>
+    <string name="ipc_add_device_uuid">UUID:</string>
+    <string name="ipc_add_device_admin">用户名:</string>
+    <string name="ipc_add_device_pwd">密 码:</string>
+    <string name="ipc_add_device_infomaion">设备信息</string>
+    <string name="ipc_add_wifi_seting_two_text">摄像机正在和WIFI网络连接，请耐心等待.....</string>
+    <string name="userid">userid</string>
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/gray"
+              android:orientation="vertical"
+              android:padding="20dp">
+
+
+    <Button
+        android:id="@+id/fz_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:text="水平翻转"
+        />
+
+    <Button
+        android:id="@+id/fz_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="垂直翻转"
+        />
+
+    <Button
+        android:id="@+id/fz_3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="水平翻转+垂直翻转"
+        />
+
+</LinearLayout>
